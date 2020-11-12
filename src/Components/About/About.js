@@ -4,7 +4,7 @@ import './About.css';
 export const About=(props)=>{
     return(
         <div className='about-container'>
-           {about.bio}
-        </div>
+           {about.bio}  
+        </div> 
     )
 }

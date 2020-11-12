@@ -8,7 +8,7 @@ export const SideNav=({handleSelectionClick})=>{
             alt='avatar'
         />
         <h2 className='main-name'>Kiran</h2>
-        <p className='subtitle'>'Code To React'</p>
+        <p className='subtitle'>'Here To React'</p> 
         <div className='sections-list'>
             <p className='section-list-element' onClick={()=> handleSelectionClick("about")}>About Me</p>
             <p className='section-list-element' onClick={()=> handleSelectionClick("skills")}>Skills</p>

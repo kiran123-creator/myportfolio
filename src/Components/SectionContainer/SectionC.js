@@ -15,7 +15,7 @@ export const SectionC=({about,skills,selectedHeading,selectedQuote,selectedSecti
           </div>
           <div className='section-component'>
                  {
-                     {
+                     { 
                          about:<About/>,
                          skills:<Skills/>,
                          projects:<Projects/>,

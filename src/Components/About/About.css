@@ -1,4 +1,8 @@
 .about-container {
     font-size: 27px;
-    white-space: pre-wrap;
+    /* white-space: pre-wrap; */
+    text-align: justify;
+    font-family: 'poppen';
+    line-height: 2.5rem;
+    margin-top: 2.3rem;
 }

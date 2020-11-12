@@ -23,6 +23,7 @@ export const skills = {
         "Teaching",
         "Time Management",
         "Leadership",
-        "Management"
+        "Management",
+        "Mentoring "
     ]
 };

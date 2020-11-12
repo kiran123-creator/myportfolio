@@ -7,11 +7,11 @@ import { SectionC } from '../SectionContainer/SectionC';
         <div className='portfolio-container'>
         <div className='sidenav-container'>
         <SideNav
-            handleSelectionClick={handleSelectionClick}
+            handleSelectionClick={handleSelectionClick} 
         />
          </div>
         <div className='main-section-container'>
-            <SectionC
+            <SectionC 
                 about={about}
                 skills={skills}
                 projects={projects}
